@@ -4,7 +4,7 @@ Tourament is a Python project that uses the PostgreSQL database
 to track a Swiss style tournament.  Rules in a Swiss style 
 tournament allow participants to keep playing until the end.  After
 every round a player is matched with somone who ranked the same as they
-did.  The loosers and winners are paired accordingly.
+did.  The losers and winners are paired accordingly.
 
 # Install
 
